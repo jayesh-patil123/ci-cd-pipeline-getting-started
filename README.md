@@ -1,4 +1,3 @@
-# ci-cd-pipeline-getting-started
 # 🚀 CI/CD Pipeline - Getting Started
 
 Welcome to the **CI/CD Pipeline - Getting Started** project! This repository demonstrates how to set up a **Continuous Integration (CI) and Continuous Deployment (CD)** pipeline using **GitHub Actions**.
